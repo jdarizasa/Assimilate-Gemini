@@ -1,3 +1,5 @@
+[![CI](https://github.com/jdarizasa/Assimilate-Gemini/actions/workflows/blank.yml/badge.svg)](https://github.com/jdarizasa/Assimilate-Gemini/actions/workflows/blank.yml)
+
 # Assimilate-Gemini
 This is a repo to create a questio-answer model integrating a gemini model
 

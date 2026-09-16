@@ -1,1 +1,4 @@
 black
+pylint
+pytest
+streamlit
