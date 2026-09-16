@@ -1,2 +1,2 @@
-# Assimilate-DeepSeek
-This is a repo to create a questio-answer model integrating a deepseek model
+# Assimilate-Gemini
+This is a repo to create a questio-answer model integrating a gemini model
