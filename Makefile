@@ -9,6 +9,6 @@ format:
 	black *.py genilib/*.py
 
 lint:
-	pylint --disable=R,C --extension-pkg-whitelist='pydantic' main.py --ignore-patterns=test_.*?py *.py mylib/*.py
+	pylint --disable=R,C --extension-pkg-whitelist='pydantic' main.py --ignore-patterns=test_.*?py *.py genilib/*.py
 
 all: install lint test format

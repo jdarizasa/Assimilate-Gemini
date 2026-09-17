@@ -15,3 +15,9 @@ python -m venv ~/.venv
 echo "source ~/.venv/bin/activate" >> ~/.bashrc
 source ~/.bashrc
 ```
+
+## Step 2: Build a library and set the CLI
+* Configure the functions on the library
+* Configure the API key in secrets, named it GEMINI_API_KEY
+* Use click to run the functions from the CLI
+* Make a test

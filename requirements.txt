@@ -1,4 +1,9 @@
 black
 pylint
 pytest
+pytest-cov
 streamlit
+google-genai
+fastapi
+pydantic
+uvicorn
